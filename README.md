@@ -1,12 +1,56 @@
-# React + Vite
+# 📰 News App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and elegant **News App** built using **React**, **Bootstrap**, and the **NewsAPI**.  
+This app displays real-time top headlines by category and supports **light/dark mode toggle**, all controlled via React Context API.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Fetches latest news from [NewsAPI.org](https://newsapi.org/)
+- ✅ Categories: Technology, Business, Health, Sports, Entertainment
+- ✅ Light & Dark mode toggle with persistent theme (via localStorage)
+- ✅ Responsive design using Bootstrap 5
+- ✅ Dynamic rendering with React functional components & hooks
+- ✅ Clean UI with Poppins font and consistent theme
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Light Mode                         | Dark Mode                          |
+|-----------------------------------|------------------------------------|
+| ![Light Mode](./screens/light.png) | ![Dark Mode](./screens/dark.png)   |
+
+
+## 🎥 Live Demo Video
+
+Click below to watch the News App in action:
+
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+## 🛠️ Tech Stack
+
+- [React.js](https://reactjs.org/)
+- [Bootstrap 5](https://getbootstrap.com/)
+- [NewsAPI](https://newsapi.org/)
+- Context API for theme management
+- CSS customization for card styling
+
+
+## ⚙️ Installation & Setup
+
+```bash
+# 1. Clone this repo
+git clone https://github.com/mananmkgithub/newsapp.git
+cd newsapp
+
+# 2. Install dependencies
+npm install
+
+# 3. Create a .env file for your API Key
+echo "VITE_API_KEY=your_newsapi_key_here" > .env
+
+# 4. Start the app
+npm run dev
+
+🧑‍💻 Developed By
+👤 Manan Kolate
+
+📫 Email: manankolate@gmail.com
+
