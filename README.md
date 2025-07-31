@@ -23,7 +23,7 @@ This app displays real-time top headlines by category and supports **light/dark 
 
 Click below to watch the News App in action:
 
-[![Watch the video click link](https://jumpshare.com/s/xf20D5e46Uam4fw3MonV)]
+[![Watch the video](https://jumpshare.com/s/xf20D5e46Uam4fw3MonV)]
 ## 🛠️ Tech Stack
 
 - [React.js](https://reactjs.org/)
