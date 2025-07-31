@@ -16,14 +16,14 @@ This app displays real-time top headlines by category and supports **light/dark 
 
 | Light Mode                         | Dark Mode                          |
 |-----------------------------------|------------------------------------|
-| ![Light Mode](./screens/light.png) | ![Dark Mode](./screens/dark.png)   |
+| ![Light Mode](https://github.com/mananmkgithub/newsapp/blob/main/project%20photos%20and%20videos/Screenshot%20(444).png) | ![Dark Mode](https://github.com/mananmkgithub/newsapp/blob/main/project%20photos%20and%20videos/Screenshot%20(446).png)   |
 
 
 ## 🎥 Live Demo Video
 
 Click below to watch the News App in action:
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video click link](https://jumpshare.com/s/xf20D5e46Uam4fw3MonV)]
 ## 🛠️ Tech Stack
 
 - [React.js](https://reactjs.org/)
